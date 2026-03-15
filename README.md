@@ -30,7 +30,7 @@ h1{
 
 <br><br>
 
-<a href="https://www.google.com">Go to Google</a>
+<a href="https://www.instagram.com">Go to instagram</a>
 
 <br><br>
 
